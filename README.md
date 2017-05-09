@@ -2,6 +2,7 @@
 JavaHibernateCRUD
 
 Tạo các bản dữ liệu:
+Ở đây là tạo bản Employee và bản Project quan hệ nhiều nhiều
 
 ```sql
 CREATE TABLE `Employee`(
